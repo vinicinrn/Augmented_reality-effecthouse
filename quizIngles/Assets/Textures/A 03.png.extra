@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "c4dbae47-ff1c-76ee-365d-426a56962e82",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "A 03",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\Thain\\Downloads\\QUIZ INGLÊS\\A 03.png"
+  }
+]
